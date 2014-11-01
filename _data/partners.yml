@@ -1,0 +1,24 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Bordj", description: "GDG Bordj - Only sharp minds", link: "http://gdg-bordj.org", imageUrl: "GDG.png"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "GDG Bordj", description: "GDG Bordj - Open and volunteer geek community", link: "http://gdg-bordj.org", imageUrl: "GDG.png", width: "120px"}
+    - {name: "FMI BBA", description: "Faculty of Mathematics and Computer Sciences", link: "http://www.fmi-bba.net", imageUrl: "fmibba.png", width: "120px"}
+    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+- 
+  group: "Information partners"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Bordj", description: "GDG Bordj - Open and volunteer geek community", link: "http://gdg-bordj.org", imageUrl: "GDG.png"}
+    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Bordj", description: "GDG Bordj - Open and volunteer geek community", link: "http://gdg-bordj.org", imageUrl: "GDG.png"}
+    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Bordj", description: "GDG Bordj - Open and volunteer geek community", link: "http://gdg-bordj.org", imageUrl: "GDG.png"}
+    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}

@@ -1,0 +1,9 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "GDG Bordj", description: "GDG Bordj - Only sharp minds", link: "http://gdg-bordj.org", imageUrl: "GDG.png"}
+- 
+  group: "Co-organizers"
+  elements: 
+    - {name: "University of Bordj Bou Arreridj", description: "One of the most prestigious universities in Algeria", link: "http://www.univ-bba.dz", imageUrl: "univbba.png"}
+    - {name: "FMI BBA", description: "Faculty of Mathematics and Computer Sciences", link: "http://www.fmi-bba.net", imageUrl: "fmibba.png"}
